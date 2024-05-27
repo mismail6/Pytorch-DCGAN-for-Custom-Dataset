@@ -8,7 +8,7 @@ Dataset used: https://www.kaggle.com/datasets/yryruwehuhuiashd/league-of-legends
 
 These are some of the generated images:
 <p align="center">
-  <img src="Scaled_images/Champ1_scaled.png" width="256" alt="Image 1">
+  <img src="Scaled_images/Champ1_scaled.png" alt="Image 1">
   <img src="Scaled_images/Champ2_scaled.png" width="256" alt="Image 2">
   <img src="Scaled_images/Champ4_scaled.png" width="256" alt="Image 3">
 </p>
