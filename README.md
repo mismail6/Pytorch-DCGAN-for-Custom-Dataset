@@ -5,12 +5,11 @@ Reference DCGAN code: https://jovian.ai/aakashns/06b-anime-dcgan
 
 Dataset used: https://www.kaggle.com/datasets/yryruwehuhuiashd/league-of-legends-skins
 
-These are the generated images:
+These are some of the generated images:
 <p align="center">
   <img src="Scaled_images/Champ1_scaled.png" width="256" alt="Image 1">
   <img src="Scaled_images/Champ2_scaled.png" width="256" alt="Image 2">
-  <img src="Scaled_images/Champ3_scaled.png" width="256" alt="Image 3">
-  <img src="Scaled_images/Champ4_scaled.png" width="256" alt="Image 4">
+  <img src="Scaled_images/Champ4_scaled.png" width="256" alt="Image 3">
 </p>
 
 In this case, I first trained lr=0.0002 for 200 epochs then 0.0001 for 100 epochs. A batch size of 64 was used consistently
