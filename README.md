@@ -16,3 +16,5 @@ These are some of the generated images:
 
 In this case, I first trained lr=0.0002 for 200 epochs then 0.0001 for 100 epochs. batch size = 64.
 The images were initially resized to be 64x64 for better training so the generated images are also 64x64 which was too small so I had to upscale the results by x4.
+
+Feel free to either train your own model using the code or generate images using the uploaded models. The code automatically loads them if they are in the current directory.
